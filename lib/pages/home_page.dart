@@ -252,7 +252,7 @@ Widget getCategoryFiles(BuildContext context) {
                   height: 150,
                   width: 140,
                   decoration: BoxDecoration(
-                    color: secondary.withOpacity(0.2),
+                    color: secondary.withOpacity(0.1),
                     borderRadius: BorderRadius.circular(22),
                   ),
                   child: Column(
